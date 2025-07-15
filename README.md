@@ -65,7 +65,7 @@ But if you’ve ever believed:
 Then this is it.
 
 > _"Take a step — that’s how you find the light."_  
-> — Jamalu – not the author, but the soul behind the effort.  
+> — Jamalu, the whisper behind the work  
 > — **Siraat AI Academy**
 
 ---
