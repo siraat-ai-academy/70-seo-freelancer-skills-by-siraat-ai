@@ -85,5 +85,9 @@ Feel free to use, adapt, remix, or translate — but always do so with:
 
 Stay curious. Stay ethical. Stay human.
 
+✍️ — From Jamalu – not the author, but the soul behind the effort.
+Siraat means “path” — and this repo is one small light for those finding theirs.
+
+---
 🌐 [siraatai.com](https://siraatai.com) (coming soon)  
 📬 contact@siraatai.com (placeholder email)
