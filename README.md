@@ -81,15 +81,15 @@ Feel free to use, adapt, remix, or translate — but always do so with:
 - Attribution 🙏
 - A purpose to grow ethically 🌱
 
-Stay curious. Stay ethical. Stay human.
+**Stay curious. Stay ethical. Stay human.**
 
-Feel free to fork, remix, translate, or reuse this content — but always stay honest and stay human.
+
+Feel free to fork, remix, translate, or reuse this content — but always **stay honest** and **stay human**.
 
 ---
 
-✍️ — From Jamalu – not the author, but the soul behind the effort.
-
+✍️ — From Jamalu – not the author, but the soul behind the effort.  
 Siraat means “path” — and this repo is one small light for those finding theirs.
 
 🌐 [siraatai.com](https://siraatai.com) (coming soon)  
-📬 contact@siraatai.com (placeholder email)
+📬 contact@siraatai.com (placeholder)
