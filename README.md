@@ -65,7 +65,7 @@ But if you’ve ever believed:
 Then this is it.
 
 > _"Take a step — that’s how you find the light."_  
-> — Jamalu, the whisper behind the work  
+> — Eks2, the whisper behind the work  
 > — **Siraat AI Academy**
 
 ---
@@ -88,7 +88,7 @@ Feel free to fork, remix, translate, or reuse this content — but always **stay
 
 ---
 
-✍️ — From Jamalu – not the author, but the soul behind the effort.  
+✍️ — From Eks2 – not the author, but the soul behind the effort.  
 Siraat means “path” — and this repo is one small light for those finding theirs.
 
 🌐 [siraatai.com](https://siraatai.com) (coming soon)  
